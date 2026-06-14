@@ -11,7 +11,7 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
     <td width="50%" valign="top">
       <h3>🩸 <a href="https://github.com/Cooltechnoo/BorderTint">BorderTint</a></h3>
       <p>A highly customizable visual framework rendering smooth, dynamic screen-edge gradients based on real-time health thresholds. Powered by YACL3.</p>
-      </td>
+    </td>
     <td width="50%" valign="top">
       <h3>💎 <a href="https://github.com/Cooltechnoo/No-Crystal-Refresh">No-Crystal-Refresh</a></h3>
       <p>An optimization fix designed for fluid PvP mechanics, eliminating vanilla hotbar item refresh stutter when rapidly placing End Crystals.</p>
@@ -38,6 +38,9 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
   <img src="https://img.shields.io/badge/Fabric-F8763D?style=for-the-badge&logo=fabric&logoColor=white" alt="Fabric" />
   <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <a href="https://modrinth.com/user/Cooltechno" target="_blank">
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
+  </a>
 </p>
 
 ---
@@ -53,5 +56,5 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
 
 <p align="center">
   <sub>Open to collaboration on Fabric optimization & client-side performance architecture</sub><br>
-  <sub>⚡ Profile views: <img src="https://komarev.com/ghvc/?username=Cooltechnoo&color=bf5af2&style=flat-square" alt="Views" valign="middle" /></sub>
+  <sub>🌐 Find my mods on <a href="https://modrinth.com/user/Cooltechno">Modrinth</a></sub><br>
 </p>
