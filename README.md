@@ -9,7 +9,7 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Cooltechnoo/MinecraftCombatBot">MinecraftCombatBot</a></h3>
+      <h3>⚡ <a href="https://github.com/Cooltechnoo/MinecraftCombatBot">MinecraftCombatBot - Beta</a></h3>
       <p>An advanced, predictive PvP automation core for Fabric 1.21.11. Features velocity lookahead anchors, raycasted visibility filters, anti-combo spacing overrides, and threaded telemetry logging.</p>
     </td>
     <td width="50%" valign="top">
