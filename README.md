@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Cooltechno
+# Hey, I'm Cooltechno
 
-A client-side **Java & Fabric Engineer** focusing on high-performance optimization, fluid UI visual frameworks, and seamless account synchronization utilities for Minecraft.
+A client-side **Java & Fabric Engineer** focusing on high-performance optimization, fluid UI visual frameworks, predictive combat automation, and seamless account synchronization utilities for Minecraft.
 
 ---
 
@@ -9,8 +9,8 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🩸 <a href="https://github.com/Cooltechnoo/BorderTint">BorderTint</a></h3>
-      <p>A highly customizable visual framework rendering smooth, dynamic screen-edge gradients based on real-time health thresholds. Powered by YACL3.</p>
+      <h3>⚡ <a href="https://github.com/Cooltechnoo/MinecraftCombatBot">MinecraftCombatBot</a></h3>
+      <p>An advanced, predictive PvP automation core for Fabric 1.21.11. Features velocity lookahead anchors, raycasted visibility filters, anti-combo spacing overrides, and threaded telemetry logging.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💎 <a href="https://github.com/Cooltechnoo/No-Crystal-Refresh">No-Crystal-Refresh</a></h3>
@@ -19,12 +19,21 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🩸 <a href="https://github.com/Cooltechnoo/BorderTint">BorderTint</a></h3>
+      <p>A highly customizable visual framework rendering smooth, dynamic screen-edge gradients based on real-time health thresholds. Powered by YACL3.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🔑 <a href="https://github.com/Cooltechnoo/Session-Log-In">Session-Log-In</a></h3>
       <p>Seamless in-game utility allowing account switching and secure Microsoft token refreshes directly from the main menu without restarting your client.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/Cooltechnoo/AimAssist">AimAssist</a></h3>
       <p>A customizable client helper designed to refine tracking fluidity, crosshair smoothing algorithms, and targeting field-of-view mechanics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Hidden/Empty Slot for Grid Balance — Perfect for your next project! -->
     </td>
   </tr>
 </table>
@@ -55,6 +64,6 @@ A client-side **Java & Fabric Engineer** focusing on high-performance optimizati
 ---
 
 <p align="center">
-  <sub>Open to collaboration on Fabric optimization & client-side performance architecture</sub><br>
+  <sub>Open to collaboration on Fabric optimization, physics state machines & client-side performance architecture</sub><br>
   <sub>🌐 Find my mods on <a href="https://modrinth.com/user/Cooltechno">Modrinth</a></sub><br>
 </p>
